@@ -30,4 +30,4 @@ The deliverable for this task is a complete Java-based recommendation system wit
 
 Overall, this task provides valuable hands-on experience in artificial intelligence and machine learning concepts using Java. It helps developers understand how personalized recommendation systems work and how data-driven applications improve user experience. By completing this project, learners gain practical skills in AI development, data analysis, and intelligent system design, which are highly important in modern software and web application development.
 
-##OUTPUT:
+##OUTPUT: <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/3db05137-fcc1-409e-94e1-c11ee6b38ec5" />
