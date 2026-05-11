@@ -28,6 +28,6 @@ Error handling and system reliability are also important considerations. The app
 
 The deliverable for this task is a complete Java-based recommendation system with working recommendation logic and sample datasets. The project should include proper documentation explaining the algorithms used, the working process of the recommendation engine, and the libraries implemented. Code comments should also be included to improve readability and understanding.
 
-##OUTPUT: 
-
 Overall, this task provides valuable hands-on experience in artificial intelligence and machine learning concepts using Java. It helps developers understand how personalized recommendation systems work and how data-driven applications improve user experience. By completing this project, learners gain practical skills in AI development, data analysis, and intelligent system design, which are highly important in modern software and web application development.
+
+##OUTPUT:
